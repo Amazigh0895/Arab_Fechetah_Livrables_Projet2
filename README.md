@@ -1,14 +1,18 @@
-# Arab_Fechetah_Livrables_Projet
+# 📌 Installation et Exécution du Projet
 
-Tout d’abord, vous allez récupérer le dépôt distant on cliquant sur Download Zip: cela se passe sur GitHub !
+Ce guide vous aidera à installer et exécuter le projet en suivant des étapes précises.
 
-Une fois telecharger ouvrez votre TERMINAL :
-  -deplacez vous dans le dossier du projet grace a cd
-  -verifier bien que vous etes sur le bon dossier grace a pwd
-  -lancer la commande suivante:
-   => pip install -r requirements.txt
-Une fois tout est installé vous pouvez lancer les scripts de chaque phase :
-   => python main.py
-Concernant la derniere phase(phase4)
-Avant de lancer le code creer a l'interieur du dossier phase4 un dossier :
-    => touch Images
+---
+## 📥 1. Récupération du Projet
+
+1. **Accédez au dépôt GitHub** du projet.
+2. Cliquez sur **"Download ZIP"** pour télécharger les fichiers.
+3. **Extrayez** le fichier ZIP dans un dossier de votre choix.
+
+---
+## 📦 2. Installation des Dépendances
+
+1. **Ouvrez un terminal**.
+2. **Déplacez-vous dans le dossier du projet** avec la commande :
+   ```bash
+   cd chemin/vers/le/dossier
